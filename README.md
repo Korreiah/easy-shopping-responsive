@@ -4,3 +4,4 @@
 <h2>Projeto inicial que aprendi no <a href="https://www.devclub.com.br/">Devclub</a> </h2>
 
 
+<img src="https://github.com/Korreiah/easy-shopping-responsive/blob/main/assets/desktop.png?raw=true">
