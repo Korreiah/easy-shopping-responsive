@@ -5,3 +5,4 @@
 
 
 <img src="https://github.com/Korreiah/easy-shopping-responsive/blob/main/assets/desktop.png?raw=true">
+<img src="https://github.com/Korreiah/easy-shopping-responsive/blob/main/assets/mobile2.png?raw=true">
